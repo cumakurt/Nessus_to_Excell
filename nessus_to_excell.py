@@ -3,7 +3,7 @@
 Nessus to Excel Converter
 Converts Nessus XML scan results to professional Excel reports.
 
-Copyright (C) 2024 Cuma KURT
+Copyright (C) 2025 Cuma KURT
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
