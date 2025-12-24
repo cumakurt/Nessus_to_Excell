@@ -184,7 +184,7 @@ For issues, questions, or contributions, please open an issue on GitHub.
 
 ---
 
-# Nessus to Excel Dönüştürücü
+# Nessus için  Excel Dönüştürücü
 
 Nessus XML tarama sonuçlarını gelişmiş analitik, risk skorlama ve uyumluluk kontrolü içeren kapsamlı Excel raporlarına dönüştüren profesyonel Python CLI aracı.
 
