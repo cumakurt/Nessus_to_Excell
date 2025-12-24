@@ -33,7 +33,7 @@ That's it! The script is standalone and requires no additional configuration fil
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nessus_to_excell.git
+git clone https://github.com/cumakurt/Nessus_to_Excell.git
 cd nessus_to_excell
 
 # Install dependencies
@@ -219,7 +219,7 @@ Bu kadar! Script bağımsızdır ve ek konfigürasyon dosyası gerektirmez.
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/yourusername/nessus_to_excell.git
+git clone https://github.com/cumakurt/Nessus_to_Excell.git
 cd nessus_to_excell
 
 # Bağımlılıkları kurun
