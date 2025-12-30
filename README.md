@@ -373,10 +373,10 @@ Sorunlar, sorular veya katkılar için lütfen GitHub'da bir issue açın.
 ```
 nessus_to_excell/
 ├── nessus_to_excell.py    # Bağımsız script (hepsi bir arada)
-├── requirements.txt        # Python bağımlılıkları
+├── requirements.txt       # Python bağımlılıkları
 ├── README.md              # Bu dosya
 ├── LICENSE                # GPL-3.0 Lisansı
-└── .gitignore            # Git ignore kuralları
+
 ```
 
 **Not**: Script tamamen bağımsızdır. Tüm konfigürasyon ve logging kodu `nessus_to_excell.py` içine gömülüdür. Script'i çalıştırmak için ek dosya gerekmez.
